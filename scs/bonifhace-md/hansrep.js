@@ -106321,7 +106321,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
       owner,
     } = repoData;
 
-    const messageText = `*_HANS MD GITHUB INFORMATION_*\n
+    const messageText = `*_BONIFHACE MD GITHUB INFORMATION_*\n
 *_Name:_* ${name}
 *_Stars:_* ${stargazers_count}
 *_Forks:_* ${forks_count}
@@ -106360,7 +106360,7 @@ const handleRepoCommand = async (m, Matrix, repoUrl) => {
                 {
                   name: 'cta_url',
                   buttonParamsJson: JSON.stringify({
-                    display_text: 'HANSTZ-CHAT',
+                    display_text: 'BONIFHACE-CHAT',
                     url: 'https://wa.me/255716661569',
                   }),
                 },
